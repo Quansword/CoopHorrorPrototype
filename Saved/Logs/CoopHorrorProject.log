@@ -1215,3 +1215,81 @@ LogInit: Object subsystem initialized
 [2018.08.28-16.29.01:237][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Models/Mazes/MazeWallZ" FILE="../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Assets/Models/Mazes/MazeWallZ.uasset" SILENT=true
 [2018.08.28-16.29.01:248][255]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Saved/MazeWallZAB2191DF476442BA2BA5CBA2D12FB67E.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Assets/Models/Mazes/MazeWallZ.uasset'
 [2018.08.28-16.29.03:803][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-16.29.29:950][297]AssetReimport: New page: Outstanding source content changes 4:29:29 AM
+[2018.08.28-16.29.29:969][297]LogStaticMesh: Building static mesh LightSconce...
+[2018.08.28-16.29.29:983][297]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Models/LightSconce.LightSconce
+[2018.08.28-16.29.29:997][297]LogEditorFactories: Performing atomic reimport of [C:/Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Assets/Models/LightSconce.fbx]
+[2018.08.28-16.29.30:007][297]LogFbx: Loading FBX Scene from C:/Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Assets/Models/LightSconce.fbx
+[2018.08.28-16.29.30:179][297]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.28-16.29.30:224][297]LogStaticMesh: Building static mesh LightSconce...
+[2018.08.28-16.29.30:236][297]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Models/LightSconce.LightSconce
+[2018.08.28-16.29.30:242][297]LogEditorFactories: -- imported successfully
+[2018.08.28-16.29.30:321][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Models/LightSconce" FILE="../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Assets/Models/LightSconce.uasset" SILENT=true
+[2018.08.28-16.29.30:348][298]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Saved/LightSconce029124F4407F10590BBE2B9C8E2C19F1.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Assets/Models/LightSconce.uasset'
+[2018.08.28-16.29.30:658][320]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.08.28-16.29.32:254][415]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.28-16.29.33:369][484]AssetReimport: Reimported asset LightSconce from C:/Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Assets/Models/LightSconce.fbx.
+[2018.08.28-16.30.25:966][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-16.30.27:491][811]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/ArtTestMap.ArtTestMap
+[2018.08.28-16.30.27:511][811]Cmd: MAP LOAD FILE="../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Maps/ArtTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.28-16.30.27:511][811]LightingResults: New page: Lighting Build
+[2018.08.28-16.30.27:512][811]LoadErrors: New page: Loading map: ArtTestMap.umap
+[2018.08.28-16.30.27:513][811]MapCheck: New page: Map Check
+[2018.08.28-16.30.27:513][811]LightingResults: New page: Lighting Build
+[2018.08.28-16.30.27:561][811]LogAIModule: Creating AISystem for world ArtTestMap
+[2018.08.28-16.30.27:565][811]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.28-16.30.27:608][811]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.28-16.30.27:667][811]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.183ms to complete.
+[2018.08.28-16.30.27:669][811]LogFileHelpers: Loading map 'ArtTestMap' took 0.159
+[2018.08.28-16.30.30:157][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-16.30.34:124][567]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.28-16.30.34:127][567]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2018.08.28-16.30.34:145][567]Cmd: MAP LOAD FILE="../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.28-16.30.34:145][567]LightingResults: New page: Lighting Build
+[2018.08.28-16.30.34:146][567]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2018.08.28-16.30.34:147][567]MapCheck: New page: Map Check
+[2018.08.28-16.30.34:147][567]LightingResults: New page: Lighting Build
+[2018.08.28-16.30.34:169][567]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.28-16.30.34:208][567]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.28-16.30.34:268][567]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.812ms to complete.
+[2018.08.28-16.30.34:269][567]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.124
+[2018.08.28-16.30.36:301][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-16.30.42:067][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-16.30.47:949][175]LogAIModule: Creating AISystem for world ArtTestMap
+[2018.08.28-16.30.47:953][175]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/ArtTestMap.ArtTestMap
+[2018.08.28-16.30.47:970][175]Cmd: MAP LOAD FILE="../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Maps/ArtTestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.28-16.30.47:970][175]LightingResults: New page: Lighting Build
+[2018.08.28-16.30.47:971][175]LoadErrors: New page: Loading map: ArtTestMap.umap
+[2018.08.28-16.30.47:972][175]MapCheck: New page: Map Check
+[2018.08.28-16.30.47:972][175]LightingResults: New page: Lighting Build
+[2018.08.28-16.30.47:994][175]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.28-16.30.48:033][175]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.28-16.30.48:092][175]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.29ms to complete.
+[2018.08.28-16.30.48:092][175]LogFileHelpers: Loading map 'ArtTestMap' took 0.123
+[2018.08.28-16.31.21:047][666]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-16.31.39:805][886]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-16.32.41:342][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-16.32.44:426][ 54]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.28-16.32.44:430][ 54]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2018.08.28-16.32.44:449][ 54]Cmd: MAP LOAD FILE="../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.28-16.32.44:449][ 54]LightingResults: New page: Lighting Build
+[2018.08.28-16.32.44:449][ 54]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2018.08.28-16.32.44:450][ 54]MapCheck: New page: Map Check
+[2018.08.28-16.32.44:450][ 54]LightingResults: New page: Lighting Build
+[2018.08.28-16.32.44:472][ 54]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.28-16.32.44:511][ 54]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.28-16.32.44:571][ 54]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 60.383ms to complete.
+[2018.08.28-16.32.44:571][ 54]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.123
+[2018.08.28-16.33.45:570][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-16.33.48:308][670]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2018.08.28-16.33.48:327][670]Cmd: MAP LOAD FILE="../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.28-16.33.48:327][670]LightingResults: New page: Lighting Build
+[2018.08.28-16.33.48:327][670]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2018.08.28-16.33.48:328][670]MapCheck: New page: Map Check
+[2018.08.28-16.33.48:328][670]LightingResults: New page: Lighting Build
+[2018.08.28-16.33.48:363][670]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.08.28-16.33.48:366][670]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.28-16.33.48:406][670]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.28-16.33.48:466][670]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.356ms to complete.
+[2018.08.28-16.33.48:467][670]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.141
+[2018.08.28-16.34.41:578][459]LogSlate: FSceneViewport::OnFocusLost() reason 2
