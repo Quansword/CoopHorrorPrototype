@@ -5535,3 +5535,484 @@ LogInit: Object subsystem initialized
 [2018.08.28-23.02.10:249][205]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Models/LightSconce" FILE="../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Assets/Models/LightSconce.uasset" SILENT=true
 [2018.08.28-23.02.10:271][205]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Saved/LightSconce4A2F1FAD458DF0A203E5E09D3CCCABAF.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Assets/Models/LightSconce.uasset'
 [2018.08.28-23.02.13:570][215]AssetReimport: Reimported asset LightSconce from C:/Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Assets/Models/LightSconce.fbx.
+[2018.08.28-23.03.37:504][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.03.52:484][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.04.08:041][302]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.04.28:391][917]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.04.28:482][928]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-23.04.28:497][928]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.04.28:497][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-23.04.28:497][928]PIE: New page: PIE session: MechanicTestMapVersion2 (Aug 28, 2018, 11:04:28 AM)
+[2018.08.28-23.04.28:497][928]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MechanicTestMapVersion2
+[2018.08.28-23.04.28:529][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032010s)
+[2018.08.28-23.04.28:530][928]LogAIModule: Creating AISystem for world MechanicTestMapVersion2
+[2018.08.28-23.04.28:530][928]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2018.08.28-23.04.28:530][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2 to /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 (0.032860s)
+[2018.08.28-23.04.28:564][928]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.28-23.04.28:571][928]LogInit: FAudioDevice initialized.
+[2018.08.28-23.04.28:602][928]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-23.04.28:606][928]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 up for play (max tick rate 0) at 2018.08.28-17.04.28
+[2018.08.28-23.04.28:607][928]LogWorld: Bringing up level for play took: 0.004033
+[2018.08.28-23.04.28:621][928]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MechanicTestMapVersion2 0.022
+[2018.08.28-23.04.28:622][928]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.04.30:527][151]Cmd: LevelEditor.ToggleImmersive
+[2018.08.28-23.04.30:714][157]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.04.32:255][342]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.04.32:256][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.04.32:315][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.28-23.04.32:315][342]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.04.32:341][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.04.32:362][343]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2018.08.28-23.04.35:062][642]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.04.36:185][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.04.41:936][459]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-23.04.41:950][459]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.04.41:950][459]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-23.04.41:950][459]PIE: New page: PIE session: MechanicTestMapVersion2 (Aug 28, 2018, 11:04:41 AM)
+[2018.08.28-23.04.41:951][459]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MechanicTestMapVersion2
+[2018.08.28-23.04.41:963][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012052s)
+[2018.08.28-23.04.41:963][459]LogAIModule: Creating AISystem for world MechanicTestMapVersion2
+[2018.08.28-23.04.41:963][459]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2018.08.28-23.04.41:963][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2 to /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 (0.012729s)
+[2018.08.28-23.04.41:996][459]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.28-23.04.42:002][459]LogInit: FAudioDevice initialized.
+[2018.08.28-23.04.42:029][459]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-23.04.42:033][459]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 up for play (max tick rate 0) at 2018.08.28-17.04.42
+[2018.08.28-23.04.42:033][459]LogWorld: Bringing up level for play took: 0.003953
+[2018.08.28-23.04.42:048][459]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MechanicTestMapVersion2 -0.552
+[2018.08.28-23.04.42:048][459]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.04.43:376][615]Cmd: LevelEditor.ToggleImmersive
+[2018.08.28-23.04.43:559][620]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.04.48:432][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.04.48:432][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.04.48:495][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.28-23.04.48:495][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.04.48:516][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.04.48:538][206]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2018.08.28-23.04.54:542][899]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.04.57:161][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.05.28:716][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazePillarColumn29)
+[2018.08.28-23.05.30:640][ 79]Cmd: TRANSACTION UNDO
+[2018.08.28-23.05.30:640][ 79]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.28-23.05.32:598][276]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_Child_C (BP_Sky_Sphere_Child)
+[2018.08.28-23.05.33:951][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.05.34:034][432]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-23.05.34:048][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.05.34:048][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-23.05.34:048][432]PIE: New page: PIE session: MechanicTestMapVersion2 (Aug 28, 2018, 11:05:34 AM)
+[2018.08.28-23.05.34:048][432]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MechanicTestMapVersion2
+[2018.08.28-23.05.34:060][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011640s)
+[2018.08.28-23.05.34:061][432]LogAIModule: Creating AISystem for world MechanicTestMapVersion2
+[2018.08.28-23.05.34:061][432]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2018.08.28-23.05.34:061][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2 to /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 (0.012374s)
+[2018.08.28-23.05.34:095][432]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.28-23.05.34:101][432]LogInit: FAudioDevice initialized.
+[2018.08.28-23.05.34:128][432]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-23.05.34:132][432]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 up for play (max tick rate 0) at 2018.08.28-17.05.34
+[2018.08.28-23.05.34:133][432]LogWorld: Bringing up level for play took: 0.004197
+[2018.08.28-23.05.34:147][432]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MechanicTestMapVersion2 -0.452
+[2018.08.28-23.05.34:147][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.05.36:976][767]Cmd: LevelEditor.ToggleImmersive
+[2018.08.28-23.05.37:163][772]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.05.38:529][936]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.05.38:529][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.05.38:593][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.28-23.05.38:594][936]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.05.38:615][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.05.38:637][937]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2018.08.28-23.05.40:797][166]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.08.28-23.05.42:119][288]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.05.42:973][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.05.44:871][614]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeWallX4)
+[2018.08.28-23.05.46:255][749]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.08.28-23.05.50:112][174]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.08.28-23.05.52:450][420]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.08.28-23.05.56:521][881]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.05.57:269][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.05.58:950][964]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Saved/MechanicTestMapVersion206E41860477B9E210655B6957CEEF3B6.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Maps/MechanicTestMapVersion2.umap'
+[2018.08.28-23.05.58:980][964]LogFileHelpers: Saving map 'MechanicTestMapVersion2' took 1.708
+[2018.08.28-23.05.59:376][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.05.59:459][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-23.05.59:474][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.05.59:474][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-23.05.59:474][ 21]PIE: New page: PIE session: MechanicTestMapVersion2 (Aug 28, 2018, 11:05:59 AM)
+[2018.08.28-23.05.59:474][ 21]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MechanicTestMapVersion2
+[2018.08.28-23.05.59:486][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011689s)
+[2018.08.28-23.05.59:486][ 21]LogAIModule: Creating AISystem for world MechanicTestMapVersion2
+[2018.08.28-23.05.59:486][ 21]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2018.08.28-23.05.59:486][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2 to /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 (0.012367s)
+[2018.08.28-23.05.59:519][ 21]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.28-23.05.59:525][ 21]LogInit: FAudioDevice initialized.
+[2018.08.28-23.05.59:557][ 21]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-23.05.59:561][ 21]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 up for play (max tick rate 0) at 2018.08.28-17.05.59
+[2018.08.28-23.05.59:562][ 21]LogWorld: Bringing up level for play took: 0.004137
+[2018.08.28-23.05.59:576][ 21]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MechanicTestMapVersion2 0.977
+[2018.08.28-23.05.59:576][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.06.01:482][246]Cmd: LevelEditor.ToggleImmersive
+[2018.08.28-23.06.01:663][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.06.06:062][779]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.06.06:062][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.06.06:125][779]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.28-23.06.06:125][779]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.06.06:149][779]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.06.06:171][780]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2018.08.28-23.06.08:919][ 73]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.06.10:787][273]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.06.12:555][443]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.08.28-23.06.36:919][233]Cmd: TRANSACTION UNDO
+[2018.08.28-23.06.36:919][233]LogEditorTransaction: Undo Move Actors
+[2018.08.28-23.06.56:813][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.06.57:543][501]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.06.57:635][512]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-23.06.57:650][512]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.06.57:650][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-23.06.57:650][512]PIE: New page: PIE session: MechanicTestMapVersion2 (Aug 28, 2018, 11:06:57 AM)
+[2018.08.28-23.06.57:650][512]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MechanicTestMapVersion2
+[2018.08.28-23.06.57:662][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011870s)
+[2018.08.28-23.06.57:662][512]LogAIModule: Creating AISystem for world MechanicTestMapVersion2
+[2018.08.28-23.06.57:662][512]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2018.08.28-23.06.57:662][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2 to /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 (0.012530s)
+[2018.08.28-23.06.57:698][512]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.28-23.06.57:705][512]LogInit: FAudioDevice initialized.
+[2018.08.28-23.06.57:735][512]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-23.06.57:739][512]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 up for play (max tick rate 0) at 2018.08.28-17.06.57
+[2018.08.28-23.06.57:740][512]LogWorld: Bringing up level for play took: 0.004327
+[2018.08.28-23.06.57:754][512]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MechanicTestMapVersion2 -0.846
+[2018.08.28-23.06.57:754][512]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.06.59:489][716]Cmd: LevelEditor.ToggleImmersive
+[2018.08.28-23.06.59:672][721]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.07.06:562][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.07.06:562][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.07.06:623][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.28-23.07.06:623][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.07.06:648][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.07.06:671][549]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2018.08.28-23.07.12:305][142]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.08.28-23.07.22:131][227]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2018.08.28-23.07.27:812][846]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight2)
+[2018.08.28-23.07.28:989][979]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight3)
+[2018.08.28-23.07.33:242][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare52)
+[2018.08.28-23.07.33:920][504]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2018.08.28-23.07.41:520][354]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight9)
+[2018.08.28-23.07.46:804][931]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight8)
+[2018.08.28-23.07.57:192][ 91]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2018.08.28-23.08.10:136][551]LogEditorViewport: Clicking on Actor (LMB): LightmassImportanceVolume (LightmassImportanceVolume)
+[2018.08.28-23.08.13:796][941]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.08.15:161][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.08.15:244][114]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-23.08.15:258][114]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.08.15:258][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-23.08.15:258][114]PIE: New page: PIE session: MechanicTestMapVersion2 (Aug 28, 2018, 11:08:15 AM)
+[2018.08.28-23.08.15:258][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MechanicTestMapVersion2
+[2018.08.28-23.08.15:271][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012150s)
+[2018.08.28-23.08.15:271][114]LogAIModule: Creating AISystem for world MechanicTestMapVersion2
+[2018.08.28-23.08.15:271][114]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2018.08.28-23.08.15:271][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2 to /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 (0.012875s)
+[2018.08.28-23.08.15:307][114]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.28-23.08.15:313][114]LogInit: FAudioDevice initialized.
+[2018.08.28-23.08.15:344][114]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-23.08.15:349][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 up for play (max tick rate 0) at 2018.08.28-17.08.15
+[2018.08.28-23.08.15:349][114]LogWorld: Bringing up level for play took: 0.004528
+[2018.08.28-23.08.15:364][114]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MechanicTestMapVersion2 0.765
+[2018.08.28-23.08.15:364][114]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.08.16:646][264]Cmd: LevelEditor.ToggleImmersive
+[2018.08.28-23.08.16:834][269]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.08.17:540][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.08.17:540][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.08.17:602][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.28-23.08.17:603][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.08.17:625][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.08.17:649][355]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2018.08.28-23.08.20:419][643]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.08.22:612][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.08.42:605][169]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight3)
+[2018.08.28-23.08.44:442][381]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight2)
+[2018.08.28-23.08.47:494][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.08.47:577][740]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-23.08.47:591][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.08.47:591][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-23.08.47:591][740]PIE: New page: PIE session: MechanicTestMapVersion2 (Aug 28, 2018, 11:08:47 AM)
+[2018.08.28-23.08.47:591][740]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MechanicTestMapVersion2
+[2018.08.28-23.08.47:603][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012347s)
+[2018.08.28-23.08.47:604][740]LogAIModule: Creating AISystem for world MechanicTestMapVersion2
+[2018.08.28-23.08.47:604][740]LogPlayLevel: PIE: World Init took: (0.000550s)
+[2018.08.28-23.08.47:604][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2 to /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 (0.013025s)
+[2018.08.28-23.08.47:639][740]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.28-23.08.47:646][740]LogInit: FAudioDevice initialized.
+[2018.08.28-23.08.47:673][740]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-23.08.47:678][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 up for play (max tick rate 0) at 2018.08.28-17.08.47
+[2018.08.28-23.08.47:678][740]LogWorld: Bringing up level for play took: 0.004589
+[2018.08.28-23.08.47:693][740]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MechanicTestMapVersion2 1.094
+[2018.08.28-23.08.47:693][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.09.06:051][938]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.09.06:051][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.09.06:085][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.28-23.09.06:086][938]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.09.06:109][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.09.06:162][940]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2018.08.28-23.09.08:467][201]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight16)
+[2018.08.28-23.09.13:072][710]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight15)
+[2018.08.28-23.09.17:722][195]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight15)
+[2018.08.28-23.09.22:315][689]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2018.08.28-23.09.29:370][432]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.08.28-23.09.34:323][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.09.48:688][616]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.08.28-23.09.55:914][434]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight7)
+[2018.08.28-23.09.58:754][742]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.10.12:020][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.10.15:722][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazePillarColumn21)
+[2018.08.28-23.10.21:317][397]Cmd: TRANSACTION UNDO
+[2018.08.28-23.10.21:317][397]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.28-23.10.24:799][782]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.10.27:278][ 77]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeWallX20)
+[2018.08.28-23.10.32:365][672]Cmd: TRANSACTION UNDO
+[2018.08.28-23.10.32:365][672]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.28-23.10.34:783][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.10.40:052][572]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-23.10.40:066][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.10.40:066][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-23.10.40:066][572]PIE: New page: PIE session: MechanicTestMapVersion2 (Aug 28, 2018, 11:10:40 AM)
+[2018.08.28-23.10.40:066][572]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MechanicTestMapVersion2
+[2018.08.28-23.10.40:079][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012725s)
+[2018.08.28-23.10.40:080][572]LogAIModule: Creating AISystem for world MechanicTestMapVersion2
+[2018.08.28-23.10.40:080][572]LogPlayLevel: PIE: World Init took: (0.000535s)
+[2018.08.28-23.10.40:080][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2 to /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 (0.013391s)
+[2018.08.28-23.10.40:112][572]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.28-23.10.40:119][572]LogInit: FAudioDevice initialized.
+[2018.08.28-23.10.40:148][572]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-23.10.40:152][572]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 up for play (max tick rate 0) at 2018.08.28-17.10.40
+[2018.08.28-23.10.40:153][572]LogWorld: Bringing up level for play took: 0.004344
+[2018.08.28-23.10.40:167][572]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MechanicTestMapVersion2 -0.431
+[2018.08.28-23.10.40:167][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.10.43:738][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.10.43:738][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.10.43:771][996]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.28-23.10.43:771][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.10.43:795][996]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.10.43:838][998]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2018.08.28-23.10.45:636][198]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2018.08.28-23.10.52:029][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.10.57:814][621]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazePillarColumn30)
+[2018.08.28-23.10.59:438][800]Cmd: TRANSACTION UNDO
+[2018.08.28-23.10.59:438][800]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.28-23.11.00:342][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.11.03:691][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazePillarColumn30)
+[2018.08.28-23.11.05:713][523]Cmd: TRANSACTION UNDO
+[2018.08.28-23.11.05:713][523]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.28-23.11.06:496][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.11.10:784][109]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazePillarColumn29)
+[2018.08.28-23.11.13:721][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.11.13:804][456]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-23.11.13:819][456]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.11.13:819][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-23.11.13:819][456]PIE: New page: PIE session: MechanicTestMapVersion2 (Aug 28, 2018, 11:11:13 AM)
+[2018.08.28-23.11.13:819][456]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MechanicTestMapVersion2
+[2018.08.28-23.11.13:831][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012485s)
+[2018.08.28-23.11.13:832][456]LogAIModule: Creating AISystem for world MechanicTestMapVersion2
+[2018.08.28-23.11.13:832][456]LogPlayLevel: PIE: World Init took: (0.000533s)
+[2018.08.28-23.11.13:832][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2 to /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 (0.013143s)
+[2018.08.28-23.11.13:867][456]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.28-23.11.13:874][456]LogInit: FAudioDevice initialized.
+[2018.08.28-23.11.13:904][456]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-23.11.13:909][456]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 up for play (max tick rate 0) at 2018.08.28-17.11.13
+[2018.08.28-23.11.13:909][456]LogWorld: Bringing up level for play took: 0.004616
+[2018.08.28-23.11.13:924][456]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MechanicTestMapVersion2 -0.674
+[2018.08.28-23.11.13:924][456]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.12.00:490][ 37]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.12.00:490][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.12.00:523][ 37]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.28-23.12.00:523][ 37]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.12.00:547][ 37]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.12.00:590][ 39]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2018.08.28-23.12.08:920][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.12.16:384][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare42)
+[2018.08.28-23.12.17:179][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare34)
+[2018.08.28-23.12.18:091][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare42)
+[2018.08.28-23.12.28:131][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare43)
+[2018.08.28-23.12.28:707][ 25]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare35)
+[2018.08.28-23.12.29:418][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare34)
+[2018.08.28-23.12.30:049][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare42)
+[2018.08.28-23.12.30:619][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare50)
+[2018.08.28-23.12.31:214][304]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (MazeFloorBare42)
+[2018.08.28-23.12.31:252][304]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.12.31:544][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.12.32:719][468]LogSlate: Window 'Reference Viewer' being destroyed
+[2018.08.28-23.12.32:722][468]LogSlate: Window 'Reference Viewer' being destroyed
+[2018.08.28-23.12.36:538][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.12.37:233][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.12.37:769][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare67)
+[2018.08.28-23.12.38:957][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorPitHole5)
+[2018.08.28-23.12.39:659][267]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.12.40:123][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare31)
+[2018.08.28-23.12.40:669][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare31)
+[2018.08.28-23.12.41:213][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare31)
+[2018.08.28-23.12.41:557][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.12.44:465][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare31)
+[2018.08.28-23.12.45:330][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare67)
+[2018.08.28-23.12.48:553][296]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.13.11:759][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.13.12:846][394]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.13.12:848][394]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2
+[2018.08.28-23.14.46:536][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare67)
+[2018.08.28-23.14.47:132][323]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.14.47:582][353]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare67)
+[2018.08.28-23.14.51:561][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.15.31:653][660]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.15.45:583][203]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.15.55:006][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorPitCover)
+[2018.08.28-23.15.57:159][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare18)
+[2018.08.28-23.16.00:546][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorPitCover)
+[2018.08.28-23.16.03:156][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.16.16:219][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare67)
+[2018.08.28-23.16.18:625][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.16.31:621][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.16.48:391][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.17.27:672][145]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Saved/MechanicTestMapVersion2_Auto2A96941DE49D0628853A47F96642C7FAB.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Saved/Autosaves/Game/Maps/MechanicTestMapVersion2_Auto2.umap'
+[2018.08.28-23.17.27:674][145]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MechanicTestMapVersion2' took 0.429
+[2018.08.28-23.17.27:675][145]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.429
+[2018.08.28-23.17.27:872][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.18.18:505][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.18.33:507][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare68)
+[2018.08.28-23.18.36:338][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.19.06:953][438]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.19.08:811][587]Cmd: TRANSACTION UNDO
+[2018.08.28-23.19.08:811][587]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.28-23.19.11:861][806]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.19.17:580][254]Cmd: TRANSACTION UNDO
+[2018.08.28-23.19.17:581][254]LogEditorTransaction: Undo Move Actors
+[2018.08.28-23.19.18:211][294]Cmd: TRANSACTION UNDO
+[2018.08.28-23.19.18:211][294]LogEditorTransaction: Undo Move Actors
+[2018.08.28-23.19.20:379][459]Cmd: TRANSACTION UNDO
+[2018.08.28-23.19.20:379][459]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.28-23.19.21:592][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.19.26:011][890]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare67)
+[2018.08.28-23.19.32:031][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.20.04:590][131]BlueprintLog: New page: Compile MechanicTestMapVersion2
+[2018.08.28-23.20.08:004][389]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-23.20.08:018][389]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.20.08:019][389]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-23.20.08:019][389]PIE: New page: PIE session: MechanicTestMapVersion2 (Aug 28, 2018, 11:20:08 AM)
+[2018.08.28-23.20.08:019][389]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MechanicTestMapVersion2
+[2018.08.28-23.20.08:031][389]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012661s)
+[2018.08.28-23.20.08:032][389]LogAIModule: Creating AISystem for world MechanicTestMapVersion2
+[2018.08.28-23.20.08:032][389]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2018.08.28-23.20.08:032][389]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2 to /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 (0.013396s)
+[2018.08.28-23.20.08:068][389]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.28-23.20.08:075][389]LogInit: FAudioDevice initialized.
+[2018.08.28-23.20.08:107][389]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-23.20.08:112][389]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 up for play (max tick rate 0) at 2018.08.28-17.20.08
+[2018.08.28-23.20.08:112][389]LogWorld: Bringing up level for play took: 0.004517
+[2018.08.28-23.20.08:127][389]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MechanicTestMapVersion2 -0.469
+[2018.08.28-23.20.08:128][389]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.20.09:460][499]Cmd: LevelEditor.ToggleImmersive
+[2018.08.28-23.20.09:650][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.20.51:420][844]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.20.51:420][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.20.51:495][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.28-23.20.51:495][844]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.20.51:517][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.20.51:582][845]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2018.08.28-23.20.59:135][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.21.00:250][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.21.02:446][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.21.02:841][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare31)
+[2018.08.28-23.21.05:220][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.21.05:868][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare31)
+[2018.08.28-23.21.07:966][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.21.24:699][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.21.25:684][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare31)
+[2018.08.28-23.21.29:704][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.21.30:099][ 65]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeWallX20)
+[2018.08.28-23.21.30:898][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazePillarColumn21)
+[2018.08.28-23.21.31:315][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.21.32:457][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare31)
+[2018.08.28-23.21.33:319][295]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.21.34:848][407]Cmd: TRANSACTION UNDO
+[2018.08.28-23.21.34:848][407]LogEditorTransaction: Undo Move Actors
+[2018.08.28-23.21.35:221][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare31)
+[2018.08.28-23.21.36:939][553]Cmd: TRANSACTION UNDO
+[2018.08.28-23.21.36:939][553]LogEditorTransaction: Undo Move Actors
+[2018.08.28-23.21.37:455][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazePillarColumn21)
+[2018.08.28-23.21.39:244][717]Cmd: TRANSACTION UNDO
+[2018.08.28-23.21.39:245][717]LogEditorTransaction: Undo Move Actors
+[2018.08.28-23.21.39:771][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeWallX20)
+[2018.08.28-23.21.41:711][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare24)
+[2018.08.28-23.21.43:499][ 28]Cmd: TRANSACTION UNDO
+[2018.08.28-23.21.43:499][ 28]LogEditorTransaction: Undo Clicking on Actors
+[2018.08.28-23.21.43:699][ 37]Cmd: TRANSACTION UNDO
+[2018.08.28-23.21.43:699][ 37]LogEditorTransaction: Undo Move Actors
+[2018.08.28-23.21.44:573][ 96]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.21.46:061][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare31)
+[2018.08.28-23.21.47:399][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare23)
+[2018.08.28-23.21.48:900][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.22.27:362][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare68)
+[2018.08.28-23.22.28:209][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare30)
+[2018.08.28-23.22.34:688][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.22.35:191][ 24]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Saved/MechanicTestMapVersion2A7ABE8FB4FD2B46AD4E8D685CDC44A95.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Maps/MechanicTestMapVersion2.umap'
+[2018.08.28-23.22.35:487][ 24]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Saved/MechanicTestMapVersion2_BuiltDat284CF0B345A1E18B1D7F5CA672EA044B.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Maps/MechanicTestMapVersion2_BuiltData.uasset'
+[2018.08.28-23.22.37:282][159]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.22.37:374][166]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-23.22.37:388][166]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.22.37:388][166]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-23.22.37:388][166]PIE: New page: PIE session: MechanicTestMapVersion2 (Aug 28, 2018, 11:22:37 AM)
+[2018.08.28-23.22.37:388][166]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MechanicTestMapVersion2
+[2018.08.28-23.22.37:401][166]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012535s)
+[2018.08.28-23.22.37:401][166]LogAIModule: Creating AISystem for world MechanicTestMapVersion2
+[2018.08.28-23.22.37:402][166]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2018.08.28-23.22.37:402][166]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2 to /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 (0.013208s)
+[2018.08.28-23.22.37:440][166]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.28-23.22.37:446][166]LogInit: FAudioDevice initialized.
+[2018.08.28-23.22.37:475][166]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-23.22.37:480][166]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 up for play (max tick rate 0) at 2018.08.28-17.22.37
+[2018.08.28-23.22.37:480][166]LogWorld: Bringing up level for play took: 0.004596
+[2018.08.28-23.22.37:495][166]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MechanicTestMapVersion2 0.899
+[2018.08.28-23.22.37:495][166]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.22.38:414][242]Cmd: LevelEditor.ToggleImmersive
+[2018.08.28-23.22.38:600][247]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.23.14:500][ 16]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.23.14:501][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.23.14:576][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.28-23.23.14:576][ 16]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.23.14:601][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.23.14:663][ 17]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2018.08.28-23.23.17:580][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorBare67)
+[2018.08.28-23.23.18:563][420]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.23.22:358][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.23.24:361][877]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MazeFloorPitHole5)
+[2018.08.28-23.23.30:664][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.23.53:022][273]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.28-23.23.53:047][273]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2018.08.28-23.23.54:505][424]Cmd: TRANSACTION UNDO
+[2018.08.28-23.23.54:506][424]LogEditorTransaction: Undo Delete selection
+[2018.08.28-23.23.56:180][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.24.01:627][955]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Saved/MechanicTestMapVersion2536F1E3D4AAD5EA03BAECD9387115428.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Maps/MechanicTestMapVersion2.umap'
+[2018.08.28-23.24.01:653][955]LogFileHelpers: Saving map 'MechanicTestMapVersion2' took 0.515
+[2018.08.28-23.24.03:171][ 85]LogSlate: Window 'MechanicTestMapVersion2 - Level Blueprint Editor' being destroyed
+[2018.08.28-23.24.03:175][ 85]LogSlate: Window 'MechanicTestMapVersion2 - Level Blueprint Editor' being destroyed
+[2018.08.28-23.24.34:991][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.28-23.24.35:065][291]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.28-23.24.35:081][291]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.24.35:081][291]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.28-23.24.35:081][291]PIE: New page: PIE session: MechanicTestMapVersion2 (Aug 28, 2018, 11:24:35 AM)
+[2018.08.28-23.24.35:081][291]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MechanicTestMapVersion2
+[2018.08.28-23.24.35:094][291]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012555s)
+[2018.08.28-23.24.35:094][291]LogAIModule: Creating AISystem for world MechanicTestMapVersion2
+[2018.08.28-23.24.35:094][291]LogPlayLevel: PIE: World Init took: (0.000584s)
+[2018.08.28-23.24.35:094][291]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2 to /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 (0.013273s)
+[2018.08.28-23.24.35:130][291]LogInit: XAudio2 using 'CintiqPro24P (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.28-23.24.35:136][291]LogInit: FAudioDevice initialized.
+[2018.08.28-23.24.35:166][291]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.08.28-23.24.35:171][291]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MechanicTestMapVersion2.MechanicTestMapVersion2 up for play (max tick rate 0) at 2018.08.28-17.24.35
+[2018.08.28-23.24.35:171][291]LogWorld: Bringing up level for play took: 0.004387
+[2018.08.28-23.24.35:186][291]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MechanicTestMapVersion2 0.59
+[2018.08.28-23.24.35:187][291]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.24.36:622][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.24.36:623][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.24.36:660][458]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.28-23.24.36:661][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2' with GeneratedClass '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2_C' with ClassGeneratedBy '/Game/Maps/MechanicTestMapVersion2.MechanicTestMapVersion2:PersistentLevel.MechanicTestMapVersion2'
+[2018.08.28-23.24.36:682][458]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.28-23.24.36:725][460]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2018.08.28-23.24.37:974][608]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.24.39:143][744]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.28-23.24.39:623][744]LogSavePackage: Moving '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Saved/MechanicTestMapVersion254AF0D8F4309C54EA4C61AAAD83BEE6F.tmp' to '../../../../../../Users/u0929850/Documents/GitHub/CoopHorrorPrototype/Content/Maps/MechanicTestMapVersion2.umap'
+[2018.08.28-23.24.39:648][744]LogFileHelpers: Saving map 'MechanicTestMapVersion2' took 0.501
